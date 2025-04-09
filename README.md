@@ -40,7 +40,7 @@ Microservicio en FastAPI conectado a un Datamart local, con endpoints para consu
 
 
 ### ⚙️ Stack Tech
-<div style="background-color: rgba(0, 0, 0, 0); padding: 15px; border-radius: 10px; display: inline-block;">
+<div background="rgba(0, 0, 0, 0)" padding="15" border-radius="10">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
@@ -83,6 +83,7 @@ Microservicio en FastAPI conectado a un Datamart local, con endpoints para consu
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"  />
 </div>
+
 ---
 
 ### 🧠 Actualmente estoy practicando
@@ -91,4 +92,3 @@ Microservicio en FastAPI conectado a un Datamart local, con endpoints para consu
 - Aprendiendo sobre IA aplicada al backend
 - Refinando mi stack con mejores prácticas de seguridad
 - Explorando base para vender productos reales
----
