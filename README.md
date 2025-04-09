@@ -41,30 +41,30 @@ Microservicio en FastAPI conectado a un Datamart local, con endpoints para consu
 
 
 ### ⚙️ Stack Tech
-### ⚙️ Stack Tech
-
 <div align="center">
 
 <table>
-  <!-- Fila 1: Frontend -->
+  <!-- Frontend -->
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" /><br/>HTML</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" /><br/>CSS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" /><br/>JavaScript</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" /><br/>React</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" /><br/>React Native</td>
+
   </tr>
 
-  <!-- Fila 2: Backend JS y Cloud -->
+  <!-- Backend JS y Servicios Cloud -->
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" /><br/>Node.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" style="background-color: transparent" /><br/>Express</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" style="filter: brightness(0%);" /><br/>Express</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" /><br/>NPM</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" /><br/>MySQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" /><br/>Google Cloud</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" /><br/>Firebase</td>
+    
   </tr>
 
-  <!-- Fila 3: Python, Data y DB -->
+  <!-- Backend Python, Data y DB -->
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" /><br/>Python</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" /><br/>FastAPI</td>
@@ -73,19 +73,19 @@ Microservicio en FastAPI conectado a un Datamart local, con endpoints para consu
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" /><br/>PostgreSQL</td>
   </tr>
 
-  <!-- Fila 4: DevOps y herramientas -->
+  <!-- Herramientas de Desarrollo -->
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" /><br/>Docker</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" /><br/>Git</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" /><br/>Linux</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" /><br/>VS Code</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" /><br/>Java</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" /><br/>IntelliJ</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" /><br/>Linux</td>
   </tr>
+
 </table>
 
 </div>
 
-</div>
 
 ---
 
