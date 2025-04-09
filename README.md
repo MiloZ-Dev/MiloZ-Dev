@@ -1,14 +1,15 @@
 <h1 align="center">¡Hola! 👋 Soy Milo De Jala</h1>
 
-<p align="center">
+<h3 align="center">
   Estudiante de Ingeniería de Software en la Universidad Jala. Apasionado por construir soluciones que combinan backend, data y próximamente inteligencia artificial.
-</p>
-
----
+</h3>
 
 <p align="center">
-  <a href="mailto:zepta2249@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" margin="20" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/xpr07/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" /></a>
+  <a href="mailto:zepta2249@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40"alt="Gmail" /> 
+ </a>
+  <p></p>
+  <a href="https://www.linkedin.com/in/xpr07/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -83,19 +84,15 @@ Panel interactivo para visualizar datos de rendimiento de aplicaciones, con filt
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"  />
 </div>
+---
 
-### 🐍 Tu GitHub en acción
+### 🧠 Actualmente estoy practicando
 
-<img src="https://raw.githubusercontent.com/Zp07/Zp07/output/snake.svg" alt="Snake animation" />
-
-###
-
-### 🧠 Actualmente estoy aprendiendo
-
-- Dokcer
-- Aprendiendo más sobre IA aplicada al backend
+- Docker
+- Pandas
+- Aprendiendo sobre IA aplicada al backend
 - Refinando mi stack con mejores prácticas de seguridad
-- Explorando FastAPI + React como arquitectura base para productos reales
+- Explorando base para vender productos reales
 
 ---
 
