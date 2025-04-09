@@ -4,10 +4,14 @@
 Estudiante de Ingeniería de Software en la Universidad Jala, con más de dos años de aprendizaje autodidacta construyendo proyectos reales enfocados en backend, manejo de datos e inteligencia artificial.
 </h3>
 
-  <a href="https://www.linkedin.com/in/xpr07/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/xpr07/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.getonbrd.com/p/camilo-zapata-e40a" target="_blank">
+    <img src="https://img.shields.io/badge/GetOnBoard-Developer-informational?style=flat-square&logo=data:image/svg+xml;base64,..." width="80" alt="GetOnBoard" />
   </a>
 </p>
-
 ---
 
 ### 🚀 Proyectos Destacados
@@ -15,7 +19,7 @@ Estudiante de Ingeniería de Software en la Universidad Jala, con más de dos a�
 #### 📦 AdminZ -> Sistema de Inventario y Facturación
 Aplicación web full stack para la gestión de inventarios, clientes y facturas. Incluye autenticación segura, reportes y control de stock en tiempo real.
 - -- En proceso --
-- 🛠️ **Tecnologías:** · Python · FastAPI · JavaScript· React · PostgreSQL · Tailwind · JWT
+- 🛠️ **Tecnologías:** · Python · FastAPI · JavaScript · React · PostgreSQL · Tailwind · JWT
 - 🔗 [Ver Repositorio](https://github.com/Zp07/AdminZ)
 
 ---
@@ -39,8 +43,6 @@ Microservicio en FastAPI conectado a un Datamart local, con endpoints para consu
 
 
 ### ⚙️ Stack Tech
-<br clear="both">
-
 <div style="background-color: #f9f9f9; padding: 15px; border-radius: 10px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="15" />
@@ -88,10 +90,11 @@ Microservicio en FastAPI conectado a un Datamart local, con endpoints para consu
 
 ### 🧠 Actualmente estoy practicando
 
+<div align="center">
 - Docker
 - Pandas
 - Aprendiendo sobre IA aplicada al backend
 - Refinando mi stack con mejores prácticas de seguridad
 - Explorando base para vender productos reales
-
+</div>
 ---
