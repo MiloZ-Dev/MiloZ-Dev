@@ -9,6 +9,7 @@ Estudiante de Ingeniería de Software en la Universidad Jala, con más de dos a�
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
   </a>
 </p>
+
 ---
 
 ### 🚀 Proyectos Destacados
