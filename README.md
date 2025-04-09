@@ -1,14 +1,9 @@
-<div style="background-color:#f8e7f0; padding:10px; border-radius:10px;">
-
-<h1 align="center">¡Hola! 👋 Soy Milo De Jala</h1>
+<h1 align="center">¡Hola! 👋 Soy Milo</h1>
 
 <h3 align="center">
-  Estudiante de Ingeniería de Software en la Universidad Jala. Apasionado por construir soluciones que combinan backend, data y próximamente inteligencia artificial.
+Estudiante de Ingeniería de Software en la Universidad Jala, con más de dos años de aprendizaje autodidacta construyendo proyectos reales enfocados en backend, manejo de datos e inteligencia artificial.
 </h3>
 
-<p align="center">
-  <a href="mailto:zepta2249@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40"alt="Gmail" /> 
- </a>
   <a href="https://www.linkedin.com/in/xpr07/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
   </a>
 </p>
@@ -19,7 +14,7 @@
 
 #### 📦 AdminZ -> Sistema de Inventario y Facturación
 Aplicación web full stack para la gestión de inventarios, clientes y facturas. Incluye autenticación segura, reportes y control de stock en tiempo real.
--- En proceso --
+- -- En proceso --
 - 🛠️ **Tecnologías:** · Python · FastAPI · JavaScript· React · PostgreSQL · Tailwind · JWT
 - 🔗 [Ver Repositorio](https://github.com/Zp07/AdminZ)
 
@@ -27,6 +22,7 @@ Aplicación web full stack para la gestión de inventarios, clientes y facturas.
 
 #### 🌦️ SkyNow ->  Captura de Datos Meteorológicos para entrenamiento de IA
 Aplicación backend que automatiza la recolección de datos climáticos desde una API meteorológica, almacena los datos de 100 ciudades, luego limpia y exporta archivos CSV para análisis de datos y entrenamiento de modelos de IA.
+- -- En proceso --
 - Está pensada como parte de un pipeline de datos automatizado.
 - 🛠️ **Tecnologías:** · Python · FastAPI · PostgreSQL · Pandas· SQLAlchemy 
 - 🔗 [Ver Repositorio](https://github.com/Zp07/Skynow)
@@ -34,7 +30,8 @@ Aplicación backend que automatiza la recolección de datos climáticos desde un
 ---
 
 #### 🧪 Microservicio de Ventas - Prueba Técnica Python
-Microservicio en FastAPI conectado a un Datamart local, con endpoints para consultar ventas por empleado, producto y tienda, 
+Microservicio en FastAPI conectado a un Datamart local, con endpoints para consultar ventas por empleado, producto y tienda.
+- -- Terminado --
 - 🛠️ **Tecnologías:** · Python · FastAPI · SQLite · Pytest
 - 🔗 [Ver Repositorio](https://github.com/Zp07/Prueba_Tecnica_Python)
 
@@ -44,7 +41,7 @@ Microservicio en FastAPI conectado a un Datamart local, con endpoints para consu
 ### ⚙️ Stack Tech
 <br clear="both">
 
-<div align="center">
+<div style="background-color: #f9f9f9; padding: 15px; border-radius: 10px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
@@ -98,5 +95,3 @@ Microservicio en FastAPI conectado a un Datamart local, con endpoints para consu
 - Explorando base para vender productos reales
 
 ---
-
-</div>
