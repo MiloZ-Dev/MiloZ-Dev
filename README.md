@@ -1,3 +1,5 @@
+<div style="background-color:#f8e7f0; padding:10px; border-radius:10px;">
+
 <h1 align="center">¡Hola! 👋 Soy Milo De Jala</h1>
 
 <h3 align="center">
@@ -7,7 +9,6 @@
 <p align="center">
   <a href="mailto:zepta2249@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40"alt="Gmail" /> 
  </a>
-  <p></p>
   <a href="https://www.linkedin.com/in/xpr07/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
   </a>
 </p>
@@ -16,24 +17,26 @@
 
 ### 🚀 Proyectos Destacados
 
-#### 📦 Sistema de Inventario y Facturación
+#### 📦 AdminZ -> Sistema de Inventario y Facturación
 Aplicación web full stack para la gestión de inventarios, clientes y facturas. Incluye autenticación segura, reportes y control de stock en tiempo real.
-- 🛠️ **Tecnologías:** FastAPI · React · PostgreSQL · Tailwind · JWT
-- 🔗 [Ver Repositorio](https://github.com/tuusuario/inventario-facturacion)
+-- En proceso --
+- 🛠️ **Tecnologías:** · Python · FastAPI · JavaScript· React · PostgreSQL · Tailwind · JWT
+- 🔗 [Ver Repositorio](https://github.com/Zp07/AdminZ)
 
 ---
 
-#### 🗂️ Gestor de Tareas CLI
-Herramienta de línea de comandos para crear, listar y marcar tareas. Ideal para productividad personal y aprendizaje de hilos y archivos en C.
-- 🛠️ **Tecnologías:** C · Linux · Hilos · Manejo de Archivos
-- 🔗 [Ver Repositorio](https://github.com/tuusuario/todo-cli-c)
+#### 🌦️ SkyNow ->  Captura de Datos Meteorológicos para entrenamiento de IA
+Aplicación backend que automatiza la recolección de datos climáticos desde una API meteorológica, almacena los datos de 100 ciudades, luego limpia y exporta archivos CSV para análisis de datos y entrenamiento de modelos de IA.
+- Está pensada como parte de un pipeline de datos automatizado.
+- 🛠️ **Tecnologías:** · Python · FastAPI · PostgreSQL · Pandas· SQLAlchemy 
+- 🔗 [Ver Repositorio](https://github.com/Zp07/Skynow)
 
 ---
 
-#### 📊 Dashboard de Métricas
-Panel interactivo para visualizar datos de rendimiento de aplicaciones, con filtros y gráficas en tiempo real.
-- 🛠️ **Tecnologías:** React · Chart.js · REST API · Auth
-- 🔗 [Ver Repositorio](https://github.com/tuusuario/dashboard-metricas)
+#### 🧪 Microservicio de Ventas - Prueba Técnica Python
+Microservicio en FastAPI conectado a un Datamart local, con endpoints para consultar ventas por empleado, producto y tienda, 
+- 🛠️ **Tecnologías:** · Python · FastAPI · SQLite · Pytest
+- 🔗 [Ver Repositorio](https://github.com/Zp07/Prueba_Tecnica_Python)
 
 ---
 
@@ -96,3 +99,4 @@ Panel interactivo para visualizar datos de rendimiento de aplicaciones, con filt
 
 ---
 
+</div>
