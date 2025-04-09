@@ -8,9 +8,6 @@ Estudiante de Ingeniería de Software en la Universidad Jala, con más de dos a�
   <a href="https://www.linkedin.com/in/xpr07/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
   </a>
-  <a href="https://www.getonbrd.com/p/camilo-zapata-e40a" target="_blank">
-    <img src="https://img.shields.io/badge/GetOnBoard-Developer-informational?style=flat-square&logo=data:image/svg+xml;base64,..." width="80" alt="GetOnBoard" />
-  </a>
 </p>
 ---
 
@@ -43,7 +40,7 @@ Microservicio en FastAPI conectado a un Datamart local, con endpoints para consu
 
 
 ### ⚙️ Stack Tech
-<div style="background-color: #f9f9f9; padding: 15px; border-radius: 10px; display: inline-block;">
+<div style="background-color: rgba(0, 0, 0, 0); padding: 15px; border-radius: 10px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
@@ -89,12 +86,9 @@ Microservicio en FastAPI conectado a un Datamart local, con endpoints para consu
 ---
 
 ### 🧠 Actualmente estoy practicando
-
-<div align="center">
 - Docker
 - Pandas
 - Aprendiendo sobre IA aplicada al backend
 - Refinando mi stack con mejores prácticas de seguridad
 - Explorando base para vender productos reales
-</div>
 ---
