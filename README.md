@@ -1,7 +1,8 @@
 <h1 align="center">¡Hola! 👋 Soy Milo</h1>
 
 <h3 align="center">
-Estudiante de Ingeniería de Software en la Universidad Jala, con más de dos años de aprendizaje autodidacta construyendo proyectos reales enfocados en backend, manejo de datos e inteligencia artificial.
+Desarrollador de Software, con experiencia Full - Stack, con más de dos años autodidacta construyendo proyectos reales enfocados en backend, manejo de datos e inteligencia artificial.
+Estudiante de Ingeniería de Software en la Universidad Jala
 </h3>
 
 <p align="center">
