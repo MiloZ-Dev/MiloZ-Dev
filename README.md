@@ -1,8 +1,9 @@
 <h1 align="center">¡Hola! 👋 Soy Milo</h1>
 
 <h3 align="center">
-Desarrollador de Software, con experiencia Full - Stack, con más de dos años autodidacta construyendo proyectos reales enfocados en backend, manejo de datos e inteligencia artificial.
-Estudiante de Ingeniería de Software en la Universidad Jala
+Desarrollador de software con 2 años de experiencia, comencé como Full Stack Developer y en el camino me especialicé en Backend y Data Engineering. 
+He liderado proyectos desde la toma de requerimientos hasta su implementación, incluyendo iniciativas propias. Mi enfoque está en construir soluciones eficientes que aprovechen la información y conviertan datos en decisiones valiosas.
+- Estudiante de Ingeniería de Software en la Universidad Jala -
 </h3>
 
 <p align="center">
@@ -15,31 +16,49 @@ Estudiante de Ingeniería de Software en la Universidad Jala
 
 ### 🚀 Proyectos Destacados
 
-#### 📦 AdminZ -> Sistema de Inventario y Facturación
-Aplicación web full stack para la gestión de inventarios, clientes y facturas. Incluye autenticación segura, reportes y control de stock en tiempo real.
+#### 📊 MIBI -> Plataforma Inteligente de Automatización de Datos Comerciales
+Sistema modular de microservicios para el procesamiento, análisis y visualización de datos de ventas, pensado inicialmente para carnicerías y comercios medianos. Automatiza la adquisición, limpieza, almacenamiento y reporte de datos para decisiones basadas en información real.
+
 - -- En proceso --
-- 🛠️ **Tecnologías:** · Python · FastAPI · JavaScript · React · PostgreSQL · Tailwind · JWT
-- 🔗 [Ver Repositorio](https://github.com/Zp07/AdminZ)
+
+🛠️ Tecnologías: · Python · FastAPI · Node.js · Express · PostgreSQL · Pandas · Docker · Power BI
+- 🔗 [Ver Repositorio](https://github.com/Zp07/mibi)
 
 ---
 
+#### 🧪 Microservicio de Ventas - Prueba Técnica Python
+Microservicio en FastAPI conectado a un Datamart local, con endpoints para consultar ventas por empleado, producto y tienda.
+
+- -- Terminado --
+- 
+- 🛠️ **Tecnologías:** · Python · FastAPI · SQLite · Pytest
+- 🔗 [Ver Repositorio](https://github.com/Zp07/Prueba_Tecnica_Python)
+
+---
+
+### 🌐 Ecosistema SkyNow
+*(Proyectos que trabajan juntos para un flujo completo de datos climáticos)*
+
 #### 🌦️ SkyNow ->  Captura de Datos Meteorológicos para entrenamiento de IA
 Aplicación backend que automatiza la recolección de datos climáticos desde una API meteorológica, almacena los datos de 100 ciudades, luego limpia y exporta archivos CSV para análisis de datos y entrenamiento de modelos de IA.
-- -- En proceso --
+
+- -- En Actualizaciones --
+  
 - Está pensada como parte de un pipeline de datos automatizado.
 - 🛠️ **Tecnologías:** · Python · FastAPI · PostgreSQL · Pandas· SQLAlchemy 
 - 🔗 [Ver Repositorio](https://github.com/Zp07/Skynow)
 
 ---
 
-#### 🧪 Microservicio de Ventas - Prueba Técnica Python
-Microservicio en FastAPI conectado a un Datamart local, con endpoints para consultar ventas por empleado, producto y tienda.
-- -- Terminado --
-- 🛠️ **Tecnologías:** · Python · FastAPI · SQLite · Pytest
-- 🔗 [Ver Repositorio](https://github.com/Zp07/Prueba_Tecnica_Python)
+#### 🧹 Clean_data -> Servicio de Limpieza y Transformación de Datos
+Microservicio backend que permite cargar, limpiar y transformar archivos CSV de datos meteorológicos para preparación de análisis y entrenamiento de modelos de IA. Forma parte del ecosistema SkyNow para automatización de datos.
+
+-- En Actualizaciones --
+
+🛠️ Tecnologías: · Python · FastAPI · Pandas · Docker
+- 🔗 [Ver Repositorio](https://github.com/Zp07/Skynow)
 
 ---
-
 
 ### ⚙️ Stack Tech
 <div align="center">
@@ -89,10 +108,3 @@ Microservicio en FastAPI conectado a un Datamart local, con endpoints para consu
 
 
 ---
-
-### 🧠 Actualmente estoy practicando
-- Docker
-- Pandas
-- Aprendiendo sobre IA aplicada al backend
-- Refinando mi stack con mejores prácticas de seguridad
-- Explorando base para vender productos reales
