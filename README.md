@@ -40,7 +40,7 @@ Microservicio en FastAPI conectado a un Datamart local, con endpoints para consu
 
 ---
 
---  --  --  --  --  --  --  --  --  --  --  --  --  --  --  -- 
+<br><br>
 
 ---
 
