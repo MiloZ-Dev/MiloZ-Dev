@@ -1,10 +1,13 @@
-<h1 align="center">¡Hola! 👋 Soy Milo</h1>
+<h1 align="center">¡Hola! 👋 Soy Camilo</h1>
 
 <h3 align="center">
 Desarrollador de software con 2 años en la industria, con experiencia en Full Stack Developer y especializado en Backend y Data Engineering. 
 He liderado proyectos desde la toma de requerimientos hasta su implementación, incluyendo iniciativas propias. Mi enfoque está en construir soluciones eficientes que aprovechen la información y conviertan datos en decisiones valiosas.     
 
-  ### Estudiante de Ingeniería de Software en Jala University
+</h3>
+
+<h3 align="center">
+Estudiante de Ingeniería de Software en Jala University
 </h3>
 
 <p align="center">
@@ -36,6 +39,7 @@ Microservicio en FastAPI conectado a un Datamart local, con endpoints para consu
 - 🔗 [Ver Repositorio](https://github.com/Zp07/Prueba_Tecnica_Python)
 
 ---
+
 
 ---
 
