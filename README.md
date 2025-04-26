@@ -4,7 +4,7 @@
 Desarrollador de software con 2 años en la industria, con experiencia en Full Stack Developer y especializado en Backend y Data Engineering. 
 He liderado proyectos desde la toma de requerimientos hasta su implementación, incluyendo iniciativas propias. Mi enfoque está en construir soluciones eficientes que aprovechen la información y conviertan datos en decisiones valiosas.     
 
-- Estudiante de Ingeniería de Software en la Universidad Jala -
+ - Estudiante de Ingeniería de Software en la Universidad Jala -
 </h3>
 
 <p align="center">
