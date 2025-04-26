@@ -4,7 +4,7 @@
 Desarrollador de software con 2 años en la industria, con experiencia en Full Stack Developer y especializado en Backend y Data Engineering. 
 He liderado proyectos desde la toma de requerimientos hasta su implementación, incluyendo iniciativas propias. Mi enfoque está en construir soluciones eficientes que aprovechen la información y conviertan datos en decisiones valiosas.     
 
- - Estudiante de Ingeniería de Software en la Universidad Jala -
+  ### Estudiante de Ingeniería de Software en Jala University
 </h3>
 
 <p align="center">
@@ -31,13 +31,15 @@ Sistema modular de microservicios para el procesamiento, análisis y visualizaci
 Microservicio en FastAPI conectado a un Datamart local, con endpoints para consultar ventas por empleado, producto y tienda.
 
 - -- Terminado --
-- 
+  
 - 🛠️ **Tecnologías:** · Python · FastAPI · SQLite · Pytest
 - 🔗 [Ver Repositorio](https://github.com/Zp07/Prueba_Tecnica_Python)
 
 ---
 
-### 🌐 Ecosistema SkyNow
+---
+
+### 🌐 Ecosistema CLIA
 *(Proyectos que trabajan juntos para un flujo completo de datos climáticos)*
 
 #### 🌦️ SkyNow ->  Captura de Datos Meteorológicos para entrenamiento de IA
