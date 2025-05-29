@@ -1,9 +1,9 @@
-<h1 align="center">¡Hola! 👋 Soy Camilo</h1>
+<h1 align="center">¡Hola! 👋 Soy Camilo Zapata</h1>
 
 <h3 align="center">
-Desarrollador de software con 2 años en la industria, con experiencia en Full Stack Developer y especializado en Backend y Data Engineering. 
-He liderado proyectos desde la toma de requerimientos hasta su implementación, incluyendo iniciativas propias. Mi enfoque está en construir soluciones eficientes que aprovechen la información y conviertan datos en decisiones valiosas.     
-
+Soy desarrollador de software con 2 años de experiencia en la industria, tengo experiencia en desarrollo Full Stack, me especializo en Backend y Data Engineering.
+He liderado proyectos de principio a fin, desde la toma de requerimientos hasta la implementación en producción, incluyendo iniciativas personales y colaborativas.
+Me apasiona construir soluciones eficientes y orientadas a datos, que transformen información en decisiones valiosas para los equipos y usuarios.     
 </h3>
 
 <h3 align="center">
@@ -26,7 +26,7 @@ Sistema modular de microservicios para el procesamiento, análisis y visualizaci
 - -- En proceso --
 
 🛠️ Tecnologías: · Python · FastAPI · Node.js · Express · PostgreSQL · Pandas · Docker · Power BI
-- 🔗 [Ver Repositorio](https://github.com/Zp07/mibi)
+- 🔗 [Ver Repositorio](https://github.com/MiloZ-Dev/mibi)
 
 ---
 
@@ -36,7 +36,7 @@ Microservicio en FastAPI conectado a un Datamart local, con endpoints para consu
 - -- Terminado --
   
 - 🛠️ **Tecnologías:** · Python · FastAPI · SQLite · Pytest
-- 🔗 [Ver Repositorio](https://github.com/Zp07/Prueba_Tecnica_Python)
+- 🔗 [Ver Repositorio](https://github.com/miloZ-dev/Prueba_Tecnica_Python)
 
 ---
 
@@ -54,7 +54,7 @@ Aplicación backend que automatiza la recolección de datos climáticos desde un
   
 - Está pensada como parte de un pipeline de datos automatizado.
 - 🛠️ **Tecnologías:** · Python · FastAPI · PostgreSQL · Pandas· SQLAlchemy 
-- 🔗 [Ver Repositorio](https://github.com/Zp07/Skynow)
+- 🔗 [Ver Repositorio](https://github.com/MiloZ-Dev/Skynow)
 
 ---
 
@@ -64,7 +64,7 @@ Microservicio backend que permite cargar, limpiar y transformar archivos CSV de 
 -- En Actualizaciones --
 
 🛠️ Tecnologías: · Python · FastAPI · Pandas · Docker
-- 🔗 [Ver Repositorio](https://github.com/Zp07/Skynow)
+- 🔗 [Ver Repositorio](https://github.com/MiloZ-Dev/Clean_data)
 
 ---
 
