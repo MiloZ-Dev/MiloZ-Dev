@@ -11,7 +11,7 @@ Estudiante de Ingeniería de Software en Jala University
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/xpr07/" target="_blank">
+  <a href="https://www.linkedin.com/in/miloz-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
   </a>
 </p>
@@ -36,7 +36,7 @@ Microservicio en FastAPI conectado a un Datamart local, con endpoints para consu
 - -- Terminado --
   
 - 🛠️ **Tecnologías:** · Python · FastAPI · SQLite · Pytest
-- 🔗 [Ver Repositorio](https://github.com/miloZ-dev/Prueba_Tecnica_Python)
+- 🔗 [Ver Repositorio](https://github.com/MiloZ-Dev/Prueba_Tecnica_Python)
 
 ---
 
