@@ -18,37 +18,11 @@ Estudiante de Ingeniería de Software en Jala University
 
 ---
 
-### 🚀 Proyectos Destacados
-
-#### 📊 MIBI -> Plataforma Inteligente de Automatización de Datos Comerciales
-Sistema modular de microservicios para el procesamiento, análisis y visualización de datos de ventas, pensado inicialmente para carnicerías y comercios medianos. Automatiza la adquisición, limpieza, almacenamiento y reporte de datos para decisiones basadas en información real.
-
-- -- En proceso --
-
-🛠️ Tecnologías: · Python · FastAPI · Node.js · Express · PostgreSQL · Pandas · Docker · Power BI
-- 🔗 [Ver Repositorio](https://github.com/MiloZ-Dev/mibi)
-
----
-
-#### 🧪 Microservicio de Ventas - Prueba Técnica Python
-Microservicio en FastAPI conectado a un Datamart local, con endpoints para consultar ventas por empleado, producto y tienda.
-
-- -- Terminado --
-  
-- 🛠️ **Tecnologías:** · Python · FastAPI · SQLite · Pytest
-- 🔗 [Ver Repositorio](https://github.com/MiloZ-Dev/Prueba_Tecnica_Python)
-
----
-
-<br><br>
-
----
-
 ### 🌐 Ecosistema CLIA
 *(Proyectos que trabajan juntos para un flujo completo de datos climáticos)*
 
-#### 🌦️ SkyNow ->  Captura de Datos Meteorológicos para entrenamiento de IA
-Aplicación backend que automatiza la recolección de datos climáticos desde una API meteorológica, almacena los datos de 100 ciudades, luego limpia y exporta archivos CSV para análisis de datos y entrenamiento de modelos de IA.
+#### 🌦️ SkyNow ->  Captura de Datos Meteorológicos
+Aplicación que automatiza la recolección de datos climáticos desde una API meteorológica, almacena los datos de 100 ciudades, luego limpia y exporta archivos CSV para análisis de datos y entrenamiento de modelos de IA.
 
 - -- En Actualizaciones --
   
