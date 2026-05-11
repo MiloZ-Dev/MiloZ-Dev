@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=¡Hola!+👋+Soy+Camilo+Zapata;Full+Stack+Developer;Soluciones+que+escapan+al+CRUD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=¡Hola!+👋+Soy+Camilo+Zapata;Full+Stack+Developer;)](https://git.io/typing-svg)
   <br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=22&pause=99999&color=2D9CDB&center=true&vCenter=true&width=500&duration=3000&repeat=false&lines=Soluciones+escalables+a+problemas+reales)](https://git.io/typing-svg)
 
