@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=¡Hola!+👋+Soy+Camilo+Zapata;Full+Stack+Developer;Soluciones+que+escapan+al+CRUD" alt="Typing SVG" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=¡Hola!+👋+Soy+Camilo+Zapata;Full+Stack+Developer;Soluciones+que+escapan+al+CRUD)](https://git.io/typing-svg)
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=22&pause=99999&color=2D9CDB&center=true&vCenter=true&width=500&duration=3000&repeat=false&lines=Soluciones+escalables+a+problemas+reales" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=22&pause=99999&color=2D9CDB&center=true&vCenter=true&width=500&duration=3000&repeat=false&lines=Soluciones+escalables+a+problemas+reales)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
@@ -73,7 +75,7 @@ SaaS multi-tenant de nómina automatizada para contadores y PYMEs. Arquitectura 
 
 ---
 
-### 🌦️ CLIA — Pipeline de predicción climática - En desarrollo 
+### 🌦️ CLIA — Pipeline de predicción climática -En desarrollo 
 Pipeline ETL de datos meteorológicos con portal web. Cualquier persona ingresa sus coordenadas y obtiene datos climáticos históricos y predicción futura — orientado a agricultores para toma de decisiones sobre siembra, riego y protección de cultivos.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
