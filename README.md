@@ -80,6 +80,8 @@ SaaS multi-tenant de nómina automatizada para contadores y PYMEs. Arquitectura 
 
 Pipeline de datos meteorológicos con análisis de IA orientado a agricultores. Monitorea más de 110 ciudades globales en tiempo real, enriquece cada observación con datos de suelo, radiación solar y calidad del aire, genera predicciones con Prophet y produce evaluaciones de riesgo agrícola con Claude (Anthropic). Incluye un dashboard web con control del scheduler, análisis por ciudad y chat con IA.
 
+[![Demo en Loom](https://img.shields.io/badge/▶_Ver_demo-000000?style=flat-square&logo=loom&logoColor=white)](https://www.loom.com/share/a094c6e34e2b46b19a12ebfa6a9be54d)
+
 [![clia-api](https://img.shields.io/badge/clia--api-Backend-009688?style=flat-square&logo=github&logoColor=white)](https://github.com/MiloZ-Dev/clia-api)
 [![clia-crm](https://img.shields.io/badge/clia--crm-Frontend-61DAFB?style=flat-square&logo=github&logoColor=white)](https://github.com/MiloZ-Dev/clia-crm)
 
@@ -100,6 +102,7 @@ Pipeline de datos meteorológicos con análisis de IA orientado a agricultores. 
 **Frontend**
 &nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -130,5 +133,6 @@ Pipeline de datos meteorológicos con análisis de IA orientado a agricultores. 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
