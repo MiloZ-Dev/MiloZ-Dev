@@ -75,17 +75,21 @@ SaaS multi-tenant de nómina automatizada para contadores y PYMEs. Arquitectura 
 
 ---
 
-### 🌦️ CLIA — Pipeline de predicción climática -En desarrollo 
-Pipeline ETL de datos meteorológicos con portal web. Cualquier persona ingresa sus coordenadas y obtiene datos climáticos históricos y predicción futura — orientado a agricultores para toma de decisiones sobre siembra, riego y protección de cultivos.
+### 🌦️ CLIA — Plataforma de inteligencia climática agrícola · En desarrollo
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+Pipeline de datos meteorológicos con análisis de IA orientado a agricultores. Monitorea más de 110 ciudades globales en tiempo real, enriquece cada observación con datos de suelo, radiación solar y calidad del aire, genera predicciones con Prophet y produce evaluaciones de riesgo agrícola con Claude (Anthropic). Incluye un dashboard web con control del scheduler, análisis por ciudad y chat con IA.
+
+[![clia-api](https://img.shields.io/badge/clia--api-Backend-009688?style=flat-square&logo=github&logoColor=white)](https://github.com/MiloZ-Dev/clia-api)
+[![clia-crm](https://img.shields.io/badge/clia--crm-Frontend-61DAFB?style=flat-square&logo=github&logoColor=white)](https://github.com/MiloZ-Dev/clia-crm)
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white)
 
 
 ---
