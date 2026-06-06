@@ -52,9 +52,10 @@
 
 ## 🧑‍💻 Te cuento sobre mí
 
-Soy **Full Stack Developer** autónomo y colombiano con más de 2 años construyendo software a la medida para empresas reales. Me especializo en automatización, optimización de algoritmos, resolución de problemas de negocio complejos y desarrollo web moderno. He trabajado desde algoritmos complejos de logística de flota hasta webs modernas y escalables.
-Actualmente mi nuevo reto es la construcción de un SaaS multi-tenant contable con un socio, buscando impactar la gestión contable de pymes y empresas medianas.
-Me muevo con comodidad entre el frontend y el backend, y disfruto los proyectos donde la arquitectura importa tanto como la experiencia de usuario.
+Soy **Full Stack Developer** autónomo y colombiano construyendo software a la medida para empresas reales en Colombia, España y Estados Unidos. Me especializo en automatización, optimización de algoritmos, resolución de problemas de negocio complejos y desarrollo web moderno. He liderado proyectos de principio a fin: desde algoritmos de optimización logística de flota con OR-Tools, sistemas de lead routing fintech en producción, hasta pipelines de datos meteorológicos con análisis AI agrícola.
+
+Trabajo con **React, Next.js, Python/FastAPI, Node.js, PostgreSQL, MongoDB, Docker y GCP**. Integro herramientas de IA como **Claude Code y Gemini** como parte de mi trabajo.
+Actualmente co-fundando NóminaApp, un SaaS multi-tenant contable orientado a contadores y PYMEs colombianas, tomando todas las decisiones técnicas de arquitectura, base de datos y producto.
 
 > 📍 Colombia · Remoto · Abierto a oportunidades nacionales e internacionales
 ---
